@@ -76,7 +76,7 @@ campaigns.
 
 ## 📸 Project Screenshot
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](.(https://github.com/sohail-ashraf-dev/kaylough/blob/main/screensot.png))
 
 ------------------------------------------------------------------------
 
